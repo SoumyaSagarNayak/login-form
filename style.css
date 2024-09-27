@@ -31,7 +31,7 @@ body {
   transition: 0.5s;
 }
 .ring i:nth-child(1) {
-  border-radius: 38% 62% 63% 37% / 41% 44% 56% 59%;
+  border-radius: 38% 62% 63% 37% / 41% 44% 59% 65%;
   animation: animate 6s linear infinite;
 }
 .ring i:nth-child(2) {
